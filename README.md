@@ -1,3 +1,22 @@
+> # ⚠️ This repository appears compromised or abandoned
+>
+> The maintainer of `gsd-build/get-shit-done` (TÂCHES) has not been reachable since **2026-04-01**. TÂCHES social accounts appear deleted, and a **`$GSD` token associated with the project has been linked publicly to a rug-pull**.
+>
+> An active fork lives at **[GSD-redux/get-shit-done-redux](https://github.com/GSD-redux/get-shit-done-redux)**.
+>
+> Full notice and what is known: **[README on the fork](https://github.com/GSD-redux/get-shit-done-redux/blob/rebrand/gsd-redux-rename/README.md)**.
+>
+> Until the original maintainer resurfaces with verifiable proof of control over this repository and the associated npm packages and tokens, **use the fork for new work**. Existing installations should plan a cut-over:
+>
+> | | Before | After |
+> |---|---|---|
+> | npm (main) | `get-shit-done-cc` | `get-shit-done-redux` |
+> | npm (sdk) | `@gsd-build/sdk` | `@gsd-redux/sdk` |
+>
+> — trek-e, fork maintainer (not the original author)
+>
+> ---
+
 <div align="center">
 
 # GET SHIT DONE
